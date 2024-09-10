@@ -1,0 +1,15 @@
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\bin\Debug\net8.0\Libary.exe
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\bin\Debug\net8.0\Libary.deps.json
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\bin\Debug\net8.0\Libary.runtimeconfig.json
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\bin\Debug\net8.0\Libary.dll
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\bin\Debug\net8.0\Libary.pdb
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.AssemblyInfoInputs.cache
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.AssemblyInfo.cs
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.csproj.CoreCompileInputs.cache
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.sourcelink.json
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.dll
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\refint\Libary.dll
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.pdb
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\Libary.genruntimeconfig.cache
+C:\Users\Shahad\c_course\ibrary-Book-Management-System-\Libary\obj\Debug\net8.0\ref\Libary.dll
